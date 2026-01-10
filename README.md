@@ -68,7 +68,7 @@
 
 ---
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
+  <i>"Code is like humor. When you have to explain it, it’s bad." – Atul Tiwari</i>
 </p>
 <!--
 **AtulTiwar1170/AtulTiwar1170** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
