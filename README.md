@@ -1,7 +1,7 @@
 
 # <p align="center">✨ Coding the Future with the MERN Stack/ Generative AI ✨</p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=200&section=header&text=I'm%20 Atul Tiwari &fontSize=70&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=200&section=header&text=I'm%20 Atul Tiwari&fontSize=70&animation=fadeIn&fontAlignY=35" />
 </p>
 ### Full-Stack Developer | MERN Dev | Generative AI
 
