@@ -7,14 +7,14 @@
 ---
 
 ## 💫 About Me
-- 🔭 I’m currently working on **Generative AI**
-- 🌱 I’m currently learning/Enhancing **Node.js/Python and PostgreSQL/MongoDB/SQL and Generative AI**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 📫 How to reach me: **atult2620@gmail.com**
+- I’m currently working on **Generative AI**
+- I’m currently learning/Enhancing **Node.js/Python and PostgreSQL/MongoDB/SQL and Generative AI**
+- I’m looking to collaborate on **Open Source Projects**
+- How to reach me: **atult2620@gmail.com**
 
 ---
 
-## 🛠️ My Tech Stack
+## My Tech Stack
 
 ### 🌐 Frontend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -59,7 +59,7 @@
 
 ---
 
-## 🤝 Let's Connect!
+## Let's Connect!
 <p align="left">
 <a href="www.linkedin.com/in/atul-tiwari-2a8b75246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://twitter.com/[YOUR_TWITTER]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
