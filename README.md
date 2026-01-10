@@ -56,7 +56,7 @@
 ---
 
 ## ⚡ Activity Stream
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_GITHUB_USER]&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AtulTiwar1170&theme=react-dark)
 
 ---
 
