@@ -1,17 +1,16 @@
-## Hi there 👋
-# Hi there, I'm [Your Name] 👋
-### Full-Stack Developer | MERN Specialist | UI/UX Enthusiast
+
+## Hi there, I'm Atul Tiwari 
+### Full-Stack Developer | MERN Dev | Generative AI
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F700FF&width=435&lines=Building+scalable+web+apps;MERN+Stack+Expert;Turning+Coffee+into+Code)
 
 ---
 
 ## 💫 About Me
-- 🔭 I’m currently working on **[Project Name]**
-- 🌱 I’m currently learning **Next.js 14 and GraphQL**
-- 👯 I’m looking to collaborate on **Open Source MERN Projects**
-- 💬 Ask me about **React, Node.js, or MongoDB Schema Design**
-- 📫 How to reach me: **[your-email@example.com]**
+- 🔭 I’m currently working on **Generative AI**
+- 🌱 I’m currently learning/Enhancing **Node.js/Python and PostgreSQL/MongoDB/SQL and Generative AI**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 📫 How to reach me: **atult2620@gmail.com**
 
 ---
 
@@ -62,9 +61,9 @@
 
 ## 🤝 Let's Connect!
 <p align="left">
-<a href="https://linkedin.com/in/[YOUR_LINKEDIN]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/atul-tiwari-2a8b75246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://twitter.com/[YOUR_TWITTER]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="https://[YOUR_PORTFOLIO_URL]" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/000000/globe.png" alt="Website" height="30" width="30" /></a>
+<a href="https://github.com/AtulTiwar1170/" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/000000/globe.png" alt="Website" height="30" width="30" /></a>
 </p>
 
 ---
