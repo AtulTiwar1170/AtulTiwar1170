@@ -20,7 +20,8 @@
 -  **Specialized In:** Scaling **Microservices** and optimizing **Distributed Systems** (Kafka/Redis).
 -  **Enhancing:** Advanced **System Design**, **GenAI Workflows**, and **Cloud Infrastructure**.
 -  **Collaboration:** Open to innovative **Open Source** projects and AI-driven startups.
--  **Direct Reach:** [atult2620@gmail.com](mailto:atult2620@gmail.com)
+-  **Direct Reach:** [atult2620@gmail.com](mailto:atult2620@gmail.com) / 
+  <a href="https://drive.google.com/file/d/1KNUOcOp21D-NTmcGJAhOuRnSy4s6En_v/view?usp=sharing">RESUME🔗</a>
 
 ---
 
@@ -166,6 +167,8 @@
 <a href="https://www.linkedin.com/in/atul-tiwari-2a8b75246" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/AtulTiwar1170/" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="mailto:atult2620@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  
+  <a href="https://drive.google.com/file/d/1KNUOcOp21D-NTmcGJAhOuRnSy4s6En_v/view?usp=sharing">RESUME🔗</a>
 </p>
 
 <p align="center">
@@ -173,5 +176,6 @@
 </p>
 
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad." – Atul Tiwari</i>
+  <i>"Code is like humor. When you have to explain it, it’s bad." – Atul Tiwari</i> /
+  <a href="https://drive.google.com/file/d/1KNUOcOp21D-NTmcGJAhOuRnSy4s6En_v/view?usp=sharing">RESUME🔗</a>
 </p>
