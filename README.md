@@ -52,9 +52,9 @@
 | 🟢 Project Alpha | 🔵 Project Beta |
 | :--- | :--- |
 | ![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F0FF&width=300&lines=Content-Evolution;Gemini+2.0+Integration;Pipeline+Orchestration) | ![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=39FF14&width=300&lines=JwellerStream;MERN+Stack+E-com;Scalable+Architecture) |
-| <a href="https://github.com/AtulTiwar1170/Content-Evolution"><img src="./four-step-cycle-diagram-vector-20665173.jpg" width="400" height="225" alt="Content Evolution Screenshot" style="border-radius:10px;"/></a> |  <a href="https://github.com/AtulTiwar1170/Content-Evolution"><svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800"></a>
+| <a href="https://github.com/AtulTiwar1170/Content-Evolution"><img src="./four-step-cycle-diagram-vector-20665173.jpg" width="400" height="225" alt="Content Evolution Screenshot" style="border-radius:10px;"/></a> |  <a href="https://github.com/AtulTiwar1170/Content-Evolution"><img src="./galaxy-ring-health-tacker-startframe-mo.jpg" width="400" height="225" alt="Content Evolution Screenshot" style="border-radius:10px;"/></a>
 
----
+---"galaxy-ring-health-tacker-startframe-mo.jpg"
 
 ## 🌐 System Design & Infrastructure
 <table border="0">
