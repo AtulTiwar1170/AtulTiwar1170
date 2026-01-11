@@ -1,4 +1,4 @@
-# <p align="center">✨ Atul Tiwari: Architecting the Future ✨</p>
+# <p align="center">--- Atul Tiwari: Architecting the Future ---</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=200&section=header&text=I'm%20Atul%20Tiwari&fontSize=70&animation=fadeIn&fontAlignY=35" />
 </p>
@@ -13,16 +13,16 @@
 
 ---
 
-## 💫 Professional Brief
-- 🔭 **Currently Pioneering:** Deep-diving into **Generative AI** and high-concurrency pipelines.
-- ⚡ **Specialized In:** Scaling **Microservices** and optimizing **Distributed Systems** (Kafka/Redis).
-- 🌱 **Enhancing:** Advanced **System Design**, **GenAI Workflows**, and **Cloud Infrastructure**.
-- 🤝 **Collaboration:** Open to innovative **Open Source** projects and AI-driven startups.
-- 📫 **Direct Reach:** [atult2620@gmail.com](mailto:atult2620@gmail.com)
+## Professional Brief
+-  **Currently Pioneering:** Deep-diving into **Generative AI** and high-concurrency pipelines.
+-  **Specialized In:** Scaling **Microservices** and optimizing **Distributed Systems** (Kafka/Redis).
+-  **Enhancing:** Advanced **System Design**, **GenAI Workflows**, and **Cloud Infrastructure**.
+-  **Collaboration:** Open to innovative **Open Source** projects and AI-driven startups.
+-  **Direct Reach:** [atult2620@gmail.com](mailto:atult2620@gmail.com)
 
 ---
 
-## 🛠️ Specialized Tech Ecosystem
+##  Specialized Tech Ecosystem
 
 ### 💻 Frontend & UI Architecture
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -47,7 +47,7 @@
 
 ---
 
-## 🏗️ Pinned Projects (The Techy Grid)
+##  Pinned Projects (The Techy Grid)
 
 | 🟢 Project Alpha | 🔵 Project Beta |
 | :--- | :--- |
@@ -80,7 +80,7 @@
 
 ---
 
-## 📊 Programming Metrics
+##  Programming Metrics
 <p align="center">
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AtulTiwar1170&show_icons=true&theme=tokyonight&count_private=true" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AtulTiwar1170&theme=tokyonight" />
@@ -93,7 +93,7 @@
 
 ---
 
-## 🤝 Let's Connect!
+##  Let's Connect!
 <p align="left">
 <a href="https://www.linkedin.com/in/atul-tiwari-2a8b75246" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/AtulTiwar1170/" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
