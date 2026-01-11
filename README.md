@@ -23,7 +23,20 @@
 ---
 
 ##  Specialized Tech Ecosystem
+### 💻 Frontend & UI Architecture
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css&perline=5" height="50" />
+</p>
 
+### ⚙️ Backend & Distributed Systems
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,kafka,redis&perline=6" height="50" />
+</p>
+
+### 🤖 AI & Data Persistence
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,firebase&perline=4" height="50" />
+</p>
 ### 💻 Frontend & UI Architecture
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -45,16 +58,7 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
----
 
-##  Pinned Projects (The Techy Grid)
-
-| 🟢 Project Alpha (Content-Evolution) | 🔵 Project Beta (JwellerStream)|
-| :--- | :--- |
-| ![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F0FF&width=300&lines=Content-Evolution;Gemini+2.0+Integration;Pipeline+Orchestration) | ![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=39FF14&width=300&lines=JwellerStream;MERN+Stack+E-com;Scalable+Architecture) |
-| <a href="https://github.com/AtulTiwar1170/AI-Content-Evolution-pip-line"><img src="./Gemini_Generated_Image_5sw4935sw4935sw4.png" width="400" height="300" alt="Content Evolution Screenshot" style="border-radius:5px;"/></a> |  <a href="https://github.com/AtulTiwar1170/JwellerStream"><img src="./Gemini_Generated_Image_j2fh35j2fh35j2fh.png" width="400" height="300" alt="Content Evolution Screenshot" style="border-radius:5px;"/></a>
-
----"galaxy-ring-health-tacker-startframe-mo.jpg"
 
 ## 🌐 System Design & Infrastructure
 <table border="0">
@@ -90,6 +94,17 @@
 
 ## 🐍 Activity Stream
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AtulTiwar1170&theme=react-dark)
+
+---
+
+---
+
+##  Pinned Projects (The Techy Grid)
+
+| 🟢 Project Alpha (Content-Evolution) | 🔵 Project Beta (JwellerStream)|
+| :--- | :--- |
+| ![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F0FF&width=300&lines=Content-Evolution;Gemini+2.0+Integration;Pipeline+Orchestration) | ![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=39FF14&width=300&lines=JwellerStream;MERN+Stack+E-com;Scalable+Architecture) |
+| <a href="https://github.com/AtulTiwar1170/AI-Content-Evolution-pip-line"><img src="./Gemini_Generated_Image_5sw4935sw4935sw4.png" width="400" height="300" alt="Content Evolution Screenshot" style="border-radius:5px;"/></a> |  <a href="https://github.com/AtulTiwar1170/JwellerStream"><img src="./Gemini_Generated_Image_j2fh35j2fh35j2fh.png" width="400" height="300" alt="Content Evolution Screenshot" style="border-radius:5px;"/></a>
 
 ---
 
