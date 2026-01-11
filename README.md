@@ -9,9 +9,6 @@
 
 ---
 
-## 🛡️ Featured Microservices Project
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F0FF&width=435&lines=Scalable+Microservices;Kafka+Event+Streaming;Redis+Caching+Layer;GenAI+Integration)
-
 
 
 
@@ -61,8 +58,8 @@
 
 ## 📈 My GitHub Stats
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USER]&show_icons=true&theme=radical" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USER]&layout=compact&theme=radical" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=AtulTiwar1170&show_icons=true&theme=radical" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtulTiwar1170&layout=compact&theme=radical" />
 </p>
 
 ---
