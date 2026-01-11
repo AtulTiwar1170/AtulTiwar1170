@@ -1,7 +1,7 @@
 
 # <p align="center">✨ Coding the Future with the MERN Stack/ Generative AI ✨</p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=200&section=header&text=I'm%20 Atul Tiwari&fontSize=70&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=200&section=header&text=I'm%20Atul Tiwari&fontSize=70&animation=fadeIn&fontAlignY=35" />
 </p>
 ### Full-Stack Developer | MERN Dev | Generative AI
 
@@ -45,13 +45,13 @@
 
 ---
 
-## 🏗️ Pinned Projects (The Techy Grid)
+## Pinned Projects (The Techy Grid)
 
 | 🟢 Project Alpha | 🔵 Project Beta |
 | :--- | :--- |
-| ![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F0FF&width=300&lines=Real-time+SaaS;MERN+%2B+Socket.io;Stripe+Payments) | ![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=39FF14&width=300&lines=E-learning+LMS;Next.js+14;PostgreSQL+%2B+Prisma) |
-| <a href="https://github.com/[YOUR_USER]/[REPO1]"><img src="https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_USER]&repo=[REPO1]&theme=transparent&title_color=00F0FF&text_color=ffffff&icon_color=00F0FF" /></a> | <a href="https://github.com/[YOUR_USER]/[REPO2]"><img src="https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_USER]&repo=[REPO2]&theme=transparent&title_color=39FF14&text_color=ffffff&icon_color=39FF14" /></a> |
-| **[View Demo](https://google.com)** | **[View Demo](https://google.com)** |
+| ![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F0FF&width=300&lines=Content-Evolution;PostgreSQL;Gemini+2.0) | ![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=39FF14&width=300&lines=JwellerStream;Node.js+React.js;MongoDB+Mongoose) |
+| <a href="https://github.com/AtulTiwar1170/[REPO1]"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AtulTiwar1170&repo=[REPO1]&theme=transparent&title_color=00F0FF&text_color=ffffff&icon_color=00F0FF" /></a> | <a href="https://github.com/AtulTiwar1170/[REPO2]"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AtulTiwar1170&repo=[REPO2]&theme=transparent&title_color=39FF14&text_color=ffffff&icon_color=39FF14" /></a> |
+
 
 ---
 ---
@@ -66,14 +66,13 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack | Link |
-| :--- | :--- | :--- | :--- |
-| **E-Comm Central** | Full-featured store with Stripe integration | MERN, Redux, AWS | [Demo](#) |
-| **TaskMaster Pro** | Real-time Kanban board with Drag & Drop | React, Socket.io, Node | [Demo](#) |
-| **DevSocial** | Social Network for developers to share code | MongoDB, Express, React | [Demo](#) |
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **Content-Evolution** | Full-Context Evolution Pipeline for upgrading the blog | React, Node, PostgreSQL, Laravel, API, Microservices, Docker, Networking, Render | 
+| **JwellerStream** | E-commerce Jewellery shop to reducing risk of Owner  | React, Node, MongoDB | 
 
 ---
-## 🏗️ System Design & DevOps
+## System Design & DevOps
 <table border="0">
   <tr>
     <td width="50%">
@@ -97,19 +96,19 @@
 
 ---
 
-## ⚡ Activity Stream
+## Activity Stream
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AtulTiwar1170&theme=react-dark)
 
 ---
 ## 📊 Programming Metrics
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=[YOUR_USER]&show_icons=true&theme=tokyonight&count_private=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_USER]&theme=tokyonight" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=AtulTiwar1170&show_icons=true&theme=tokyonight&count_private=true" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AtulTiwar1170&theme=tokyonight" />
 </p>
 ---
 
 ## 🛡️ Featured Microservices Project
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F0FF&width=435&lines=Scalable+Microservices;Kafka+Event+Streaming;Redis+Caching+Layer;GenAI+Integration)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F0FF&width=435&lines=Scalable+Microservices;Docker+Containers;Pipeline+Creation;GenAI+Integration)
 
 
 
