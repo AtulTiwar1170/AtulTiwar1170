@@ -52,7 +52,25 @@
 | 🟢 Project Alpha | 🔵 Project Beta |
 | :--- | :--- |
 | ![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F0FF&width=300&lines=Content-Evolution;Gemini+2.0+Integration;Pipeline+Orchestration) | ![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=39FF14&width=300&lines=JwellerStream;MERN+Stack+E-com;Scalable+Architecture) |
-| <a href="https://github.com/AtulTiwar1170/Content-Evolution"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AtulTiwar1170&repo=Content-Evolution&theme=transparent&title_color=00F0FF&text_color=ffffff&icon_color=00F0FF" /></a> | <a href="https://github.com/AtulTiwar1170/JwellerStream"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AtulTiwar1170&repo=JwellerStream&theme=transparent&title_color=39FF14&text_color=ffffff&icon_color=39FF14" /></a> |
+| <a href="https://github.com/AtulTiwar1170/Content-Evolution">flowchart LR
+  A[Idea / Prompt] --> B[Data Collection / Curation]
+  B --> C[Model Training / Fine-tuning]
+  C --> D[Generation]
+  D --> E[Post-processing / Editing]
+  E --> F[Review / Quality Assurance]
+  F --> G[Publish / Deploy]
+  G --> H[Monitor & Feedback]
+  H --> I[Iterate / Improve]
+  I --> B
+  style A fill:#e6f7ff,stroke:#2b8cff
+  style B fill:#f0f7e8,stroke:#2ca02c
+  style C fill:#fff4e6,stroke:#ff7f0e
+  style D fill:#fff0f6,stroke:#d62728
+  style E fill:#f7f7f7,stroke:#7f7f7f
+  style F fill:#fffbe6,stroke:#bcbd22
+  style G fill:#e8f4ff,stroke:#17becf
+  style H fill:#f2e8ff,stroke:#9467bd
+  style I fill:#e9f7ef,stroke:#2ca02c</a> | <a href="https://github.com/AtulTiwar1170/JwellerStream"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AtulTiwar1170&repo=JwellerStream&theme=transparent&title_color=39FF14&text_color=ffffff&icon_color=39FF14" /></a> |
 
 ---
 
