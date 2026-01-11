@@ -48,7 +48,15 @@
 
 ---
 
+## 🏗️ Pinned Projects (The Techy Grid)
 
+| 🟢 Project Alpha | 🔵 Project Beta |
+| :--- | :--- |
+| ![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F0FF&width=300&lines=Real-time+SaaS;MERN+%2B+Socket.io;Stripe+Payments) | ![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=39FF14&width=300&lines=E-learning+LMS;Next.js+14;PostgreSQL+%2B+Prisma) |
+| <a href="https://github.com/[YOUR_USER]/[REPO1]"><img src="https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_USER]&repo=[REPO1]&theme=transparent&title_color=00F0FF&text_color=ffffff&icon_color=00F0FF" /></a> | <a href="https://github.com/[YOUR_USER]/[REPO2]"><img src="https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_USER]&repo=[REPO2]&theme=transparent&title_color=39FF14&text_color=ffffff&icon_color=39FF14" /></a> |
+| **[View Demo](https://google.com)** | **[View Demo](https://google.com)** |
+
+---
 ---
 
 ## 📈 My GitHub Stats
