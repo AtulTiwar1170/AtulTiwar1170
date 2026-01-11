@@ -2,7 +2,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=200&section=header&text=I'm%20Atul%20Tiwari&fontSize=70&animation=fadeIn&fontAlignY=35" />
 </p>
-
+<p align="right">
+  <a href="https://drive.google.com/file/d/1KNUOcOp21D-NTmcGJAhOuRnSy4s6En_v/view?usp=sharing">RESUME🔗</a>
+</p>
 <p align="center">
   <b>Full-Stack Developer | MERN Specialist | Generative AI Engineer</b>
 </p>
