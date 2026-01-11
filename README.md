@@ -84,6 +84,10 @@
 <table border="0">
   <tr>
     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" alt="SQL" />
+      <br><sub><b>MYSQL</b></sub>
+    </td>
+    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB" />
       <br><sub><b>MongoDB</b></sub>
     </td>
