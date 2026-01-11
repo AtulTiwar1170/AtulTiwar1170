@@ -23,40 +23,87 @@
 ---
 
 ##  Specialized Tech Ecosystem
+
 ### 💻 Frontend & UI Architecture
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css&perline=5" height="50" />
-</p>
+<table border="0">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React" />
+      <br><sub><b>React</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" alt="Tailwind" />
+      <br><sub><b>Tailwind</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=js" width="50" height="50" alt="JavaScript" />
+      <br><sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML5" />
+      <br><sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS3" />
+      <br><sub><b>CSS3</b></sub>
+    </td>
+  </tr>
+</table>
 
 ### ⚙️ Backend & Distributed Systems
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,kafka,redis&perline=6" height="50" />
-</p>
+<table border="0">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js" />
+      <br><sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=express" width="50" height="50" alt="Express" />
+      <br><sub><b>Express</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python" />
+      <br><sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java" />
+      <br><sub><b>Java</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=kafka" width="50" height="50" alt="Kafka" />
+      <br><sub><b>Kafka</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=redis" width="50" height="50" alt="Redis" />
+      <br><sub><b>Redis</b></sub>
+    </td>
+  </tr>
+</table>
 
 ### 🤖 AI & Data Persistence
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,firebase&perline=4" height="50" />
-</p>
-### 💻 Frontend & UI Architecture
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<table border="0">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB" />
+      <br><sub><b>MongoDB</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postgres" width="50" height="50" alt="Postgres" />
+      <br><sub><b>PostgreSQL</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=supabase" width="50" height="50" alt="Supabase" />
+      <br><sub><b>Supabase</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=firebase" width="50" height="50" alt="Firebase" />
+      <br><sub><b>Firebase</b></sub>
+    </td>
+  </tr>
+</table>
 
-### ⚙️ Backend & Distributed Systems
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+---
 
-### 🤖 AI & Data Persistence
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 
 
